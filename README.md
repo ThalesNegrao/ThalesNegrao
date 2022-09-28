@@ -32,7 +32,7 @@ Hi, I'm Thales, electronics engineer and developer
 
 </div>
 
-
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   Referências</p>
@@ -45,3 +45,5 @@ Hi, I'm Thales, electronics engineer and developer
    <a href="https://dev.to/envoy_/150-badges-for-github-pnk">Bridges</a>
   
   </div>
+  
+  
