@@ -11,3 +11,19 @@ Hi, I'm Thales, electronics engineer and developer
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thalesnegrao&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesnegrao&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thales-Embedded" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg">
+  <img align="center" alt="Thales-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Thales-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Thales-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Thales-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+<div style="display: inline_block">
+  Referências</p>
+    <a href="https://devicon.dev/">Icones</a>
+    <a href="https://github.com/rafaballerin">Prof</a>
+    <a href="https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open">Markdown</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">Blocos</a>
+    <a href="https://emojipedia.org/search/?q=bag">Emouji</a>
+  </div>
