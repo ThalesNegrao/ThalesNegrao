@@ -37,8 +37,11 @@ Hi, I'm Thales, electronics engineer and developer
 <div>
   Referências</p>
     <a href="https://devicon.dev/">Icones</a>
-    <a href="https://github.com/rafaballerin">Prof</a>
+    <a href="https://github.com/rafaballerini/PerfilGithub">Prof</a>
     <a href="https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open">Markdown</a>
     <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">Blocos</a>
     <a href="https://emojipedia.org/search/?q=bag">Emouji</a>
+   <a href="https://picrew.me/image_maker/338224">Gif</a>
+   <a href="https://dev.to/envoy_/150-badges-for-github-pnk">Bridges</a>
+  
   </div>
