@@ -1,3 +1,5 @@
+in update (04/10)
+
 Hi, I'm Thales, electronics engineer and developer
 
 - 🔭 I’m searching for my first job as a developer
